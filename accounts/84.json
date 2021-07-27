@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "astral-sunbeam-320913",
+  "private_key_id": "42dcf777d1aedd62657510d49fb64efb395989ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDapBwt8UW0SfIS\n0Ih8UEmMBLsxO5dP69wr59d/ktgMl8lsLgSWduld1f3RFdJ+/UDEjlZZLQMJurwY\n4vun3NfVtCA0RNFtRyLysMKev8aKT2s5qa6tUFlltXMVKhHO/IBcmSKuEL3MOB2P\nvWGiXkva2i5pY7xblWnvOWrdRTeARiry6ufSeKb5G9omNgc07W0ff6rZJAr/mk/e\nl0Pd/6STotW1+rB4KHrrsafTgT3pwInRSo3vZPuYO0DkFS02BhwZBJQR3vXodS8Q\nVp2OzZrcT9FRJ3xmLXalL1qdWXSzP7ppE9nfmWXwha1FpAEFRJAP07Aa6cUledXa\noX3f59lJAgMBAAECggEABivbVxlNet/Fc0OAlBBeFb4tHHV5TrpdE2jZW9Kkwizn\nSg7odpNyVdbhnFe4gnjFLbxzcn6YlzCL+PXbMutDCldUZgqf5gI72cwkdNT769Ep\nuSMcI5c2LBlENM+PA3Umwwutf2qd44Lyo/6CoCciOVIEPQRMKkJG5FzjXSMu2bIp\nTsZ22fwkOsLr8XEb0HY12ZDc8hUQv1jaXGLdRW1d+KR9lI+yjhO7h8LvhhiRNUWP\nWd0bd9Az28PnMbYD2sNJfQ0HznnMl73OhFQal//L8av425h/T3OydFOcz/c/0EQl\ngocotqP1tlfmh8JRv2mQIiLypOxh1uxsDuu961iBSQKBgQDsyKJPgwDMKFiDgSv2\n+g9LjO14BljyS0S/SCvWE5n4/oN9Ragc7DyRUXtHZQayI/7NV/uKv4p77p+U1yYE\nHJYQB2A5ik1UZKkc3eIpGdvOMZAx6yx+iv+0vgjJckQ0WKNiwN2qlRT0EkKJm4kk\nHIvW4wKAgUMZPMqehk14DOzBrQKBgQDsYoxGC0nhGkYW6VnhJO3pI9odMiSiyNND\nm/J5/3NuXcV51HS+J/DDryMfur4Vs4VzNNtpAeg+q174YV6r4upH2mX7bl36hIDG\nFiMjUovn0avIVGDz2ljs3rj9CHoNs2TbCPg4rutEOfoKUR4Lg8TBzABibjc7AkYK\npqEVGq2BjQKBgQCdepbQsP0fyxmLZKab3RW9Fp59PCN+CedQHKzi9ShrfMJw15oG\nmmtx7rJB+oPoiJ4XbhOi5N8yq7LA6BKlm2mGgZFS05O4tDXxN/UJhuQ0j6wqNxHh\nm4qTZ+wqJnAMLIOF02XZ5MsJxPcx1BryxHWQ1mw8kTvSFidgJUxyso3oBQKBgQCl\nFI1xvSBzG64nAf/Kw8eCMY95JDOBm04uwRGtMUCjqsjmNADza2Ewx3Z4CioFbcGc\nmyU/SB2w5m0EeLtsvqNuWo8t7/2hnjdwHrWbTWJ3Gm4lEQhERBAmG8SEsQ7L0qR0\ncucmbsHOe86qtcuNrxARZy49j0ry4ruXZJbJ7j+NYQKBgQDd5uUtjA7v74G2woXb\nPw1skLXfV1B/cFWhBQQNilrDkRzItKKj38Lm7ejgnKDUij8T865Al8E92PexV1qG\nknq9m5aSkpaH4BLcnhny0A9tvURdt9egM8ogKtnnt57y98tN0IBt6Ws+9f4TIAzQ\nq3fheZpZNijFIMNQnAFuDLRQZA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-kqf60s4437t8dpce4uht40gt4y@astral-sunbeam-320913.iam.gserviceaccount.com",
+  "client_id": "107681215976169009983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-kqf60s4437t8dpce4uht40gt4y%40astral-sunbeam-320913.iam.gserviceaccount.com"
+}
